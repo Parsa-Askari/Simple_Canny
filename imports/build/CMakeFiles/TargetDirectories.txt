@@ -1,0 +1,3 @@
+/home/parsa/Codes/opencv projects/c++/imports/build/CMakeFiles/Functions.dir
+/home/parsa/Codes/opencv projects/c++/imports/build/CMakeFiles/edit_cache.dir
+/home/parsa/Codes/opencv projects/c++/imports/build/CMakeFiles/rebuild_cache.dir
